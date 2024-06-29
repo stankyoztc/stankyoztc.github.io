@@ -1,2 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK's Blog</title><link>https://stankyoztc.github.io</link><description>我心光明</description><copyright>SK's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/53523472?v=4</url><title>avatar</title><link>https://stankyoztc.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 18:14:41 +0000</lastBuildDate><managingEditor>SK's Blog</managingEditor><ttl>60</ttl><webMaster>SK's Blog</webMaster><item><title>TEST</title><link>https://stankyoztc.github.io/post/TEST.html</link><description>Hello World。</description><guid isPermaLink="true">https://stankyoztc.github.io/post/TEST.html</guid><pubDate>Sat, 29 Jun 2024 18:08:52 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK's Blog</title><link>https://stankyoztc.github.io</link><description>我心光明</description><copyright>SK's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/53523472?v=4</url><title>avatar</title><link>https://stankyoztc.github.io</link></image><lastBuildDate>Sat, 29 Jun 2024 18:40:02 +0000</lastBuildDate><managingEditor>SK's Blog</managingEditor><ttl>60</ttl><webMaster>SK's Blog</webMaster><item><title>怎么找pdf资源</title><link>https://stankyoztc.github.io/post/zen-me-zhao-pdf-zi-yuan.html</link><description>淘宝是怎么代找 pdf 的？
+
+原up主称：以下方法找不到的书，淘宝也找不到
+
+走完这3个途径，大部分的书能下载到：
+超星图书馆→Z-Library→找书网
+
+方法1️⃣
+超星图书馆是要收费的，但是有办法免费，办法：借道图书馆
+
+1️⃣广西壮族自治区图书馆
+2️⃣浙江图书馆
+3️⃣重庆图书馆
+
+在超星图书馆下载好之后，用软件【超星阅读器】打开，现在的文件格式不是pdf，用别的软件打不开，所以要转化下格式：用软件【pdz助手】转换成pdf格式
+
+方法2️⃣
+如果第1个方法不行，那就到【Z-Library】上面找，下载之后需要转换成pdf格式的话，可以使用软件【Calibre】
+
+方法3️⃣
+如果上面的第2个方法不行，那就到【全国图书馆参考咨询联盟】上面搜索自己要的书，这一步主要是看自己要的书的详细信息（ISBN、分类号），接着去【找书网】搜索，原本是有【秒传码】的，现在这个方法失效了，于是想下载，只能点【秒传码】旁边的三方付费下载了（1块1天）
+
+总结，这个过程需要下载的软件：
+①超星阅读器
+②pdz助手
+③Calibre
+
+需要用到的网站：
+①3者选1：广西壮族自治区图书馆、浙江图书馆、重庆图书馆
+②Z-Library
+③全国图书馆参考咨询联盟
+④找书网
+
+参考资料：
+1，散步的彭导：揭秘淘宝电子书PDF代找，让你也月入过万！全网99.99%电子书下载方法。</description><guid isPermaLink="true">https://stankyoztc.github.io/post/zen-me-zhao-pdf-zi-yuan.html</guid><pubDate>Sat, 29 Jun 2024 18:39:34 +0000</pubDate></item><item><title>TEST</title><link>https://stankyoztc.github.io/post/TEST.html</link><description>Hello World。</description><guid isPermaLink="true">https://stankyoztc.github.io/post/TEST.html</guid><pubDate>Sat, 29 Jun 2024 18:08:52 +0000</pubDate></item></channel></rss>

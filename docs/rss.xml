@@ -1,5 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK's Blog</title><link>https://stankyoztc.github.io</link><description>我心光明</description><copyright>SK's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/53523472?v=4</url><title>avatar</title><link>https://stankyoztc.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 11:20:04 +0000</lastBuildDate><managingEditor>SK's Blog</managingEditor><ttl>60</ttl><webMaster>SK's Blog</webMaster><item><title>怎么找pdf资源</title><link>https://stankyoztc.github.io/post/zen-me-zhao-pdf-zi-yuan.html</link><description>淘宝是怎么代找 pdf 的？
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SK's Blog</title><link>https://stankyoztc.github.io</link><description>我心光明</description><copyright>SK's Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/53523472?v=4</url><title>avatar</title><link>https://stankyoztc.github.io</link></image><lastBuildDate>Sun, 30 Jun 2024 12:16:19 +0000</lastBuildDate><managingEditor>SK's Blog</managingEditor><ttl>60</ttl><webMaster>SK's Blog</webMaster><item><title>2023中国成人2型糖尿病及糖尿病前期患者动脉粥样硬化性心血管疾病预防与管理专家共识</title><link>https://stankyoztc.github.io/post/2023-zhong-guo-cheng-ren-2-xing-tang-niao-bing-ji-tang-niao-bing-qian-qi-huan-zhe-dong-mai-zhou-yang-ying-hua-xing-xin-xie-guan-ji-bing-yu-fang-yu-guan-li-zhuan-jia-gong-shi.html</link><description>&#13;
+&#13;
+----&#13;
+&#13;
+&#13;
+## 2023中国成人2型糖尿病及糖尿病前期患者动脉粥样硬化性心血管疾病预防与管理专家共识&#13;
+&#13;
+&#13;
+&lt;font color='#4bacc6'&gt;蓝&lt;/font&gt;&lt;font color='#00b050'&gt;绿&lt;/font&gt;&lt;font color='#ff0000'&gt;红&lt;/font&gt;   2023-11-25  组会&#13;
+&#13;
+&#13;
+&#13;
+----&#13;
+CS 心源性休克&#13;
+T2DM  2型糖尿病&#13;
+ASCVD 动脉粥样硬化性心血管疾病&#13;
+IFG，空腹血糖受损；&#13;
+OGTT，口服葡萄糖耐量试验；&#13;
+IGT，糖耐量受损；&#13;
+HbA1c，糖化血红蛋白&#13;
+HDL‑C，高密度脂蛋白胆固醇&#13;
+CVD，心血管疾病 &#13;
+RAAS，肾素‑血管紧张素‑醛固酮系统&#13;
+ACEI/ARB，血管紧张素转化酶抑制剂/血管紧张素受体拮抗剂&#13;
+ARNI，血管紧张素受体脑啡肽酶抑制剂&#13;
+CKD，慢性肾脏病&#13;
+PCSK9，前蛋白转化酶枯草溶菌素/kexin 9 型&#13;
+Lp(a)，脂蛋白(a)&#13;
+ACS，急性冠状动脉综合征&#13;
+eGFR，肾小球滤过率&#13;
+VEGF，抗血管内皮生长因子&#13;
+BNP/NT‑proBNP，脑钠肽/N末端B型利钠肽前体&#13;
+HFrEF，射血分数下降的心力衰竭&#13;
+HFmrEF，射血分数中间值的心力衰竭&#13;
+HFpEF，射血分数保留心力衰竭&#13;
+NAFLD，非酒精性脂肪性肝病`&#13;
+&#13;
+&#13;
+---&#13;
+&#13;
+#### 糖尿病前期和糖尿病的定义及诊断标准&#13;
+1. 糖尿病前期：葡萄糖水平不符合糖尿病标准但高于正常范围&#13;
+&#13;
+2. 糖尿病：由遗传和环境因素 以高血糖为特征&#13;
+&#13;
+---&#13;
+&#13;
+###### 糖尿病前期及糖尿病诊断标准：&#13;
+|    分类    |                                                                             诊断标准                                                                             |&#13;
+|:----------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------:|&#13;
+| 糖尿病前期 | IFG：6.1 mmol/ L≤空腹血糖&lt;7.0 mmol/ L 且 OGTT 2 h 血糖&lt;7.8 mmol/L；&lt;br&gt; IGT：空腹血糖&lt;7.0 mmol/ L 且 7.8 mmol/ L ≤OGTT 2 h 血糖&lt;11.1mmol/L；&lt;br&gt;HbA1c：5.7%~6.4% |&#13;
+|   糖尿病   |    典型糖尿病症状 ，伴随机血糖 ≥11.1 mmol/ L ，或空腹血糖≥7.0 mmol/L，&lt;br&gt;或OGTT 2h 血糖 ≥11.1mmol/ L，或 HbA1c ≥6.5%；&lt;br&gt;无糖尿病典型症状者，需改日复查确认    |&#13;
+&#13;
+---&#13;
+###### 典型糖尿病症状：&#13;
+烦渴多饮、多尿、多食、不明原因体重下降和视力模糊等；&#13;
+###### 随机血糖：&#13;
+不考虑上次用餐时间，一天中任意时间的血糖，不能用来诊断空腹血糖受损或糖耐量减低；&#13;
+###### 空腹状态：&#13;
+至少 8 h 没有进食热量&#13;
+&#13;
+---&#13;
+&#13;
+### 生活方式管理&#13;
+1. 优先选择&lt;font color='#92d050'&gt;低血糖生成指数&lt;/font&gt;&lt;font color='#548dd4'&gt;碳水化合物&lt;/font&gt;&#13;
+2. &lt;span style='background:#ff4d4f'&gt;不推荐&lt;/span&gt;常规服用维生素或矿物质补充剂来控制血糖或改善T2DM患者的心血管风险。</description><guid isPermaLink="true">https://stankyoztc.github.io/post/2023-zhong-guo-cheng-ren-2-xing-tang-niao-bing-ji-tang-niao-bing-qian-qi-huan-zhe-dong-mai-zhou-yang-ying-hua-xing-xin-xie-guan-ji-bing-yu-fang-yu-guan-li-zhuan-jia-gong-shi.html</guid><pubDate>Sun, 30 Jun 2024 12:15:54 +0000</pubDate></item><item><title>怎么找pdf资源</title><link>https://stankyoztc.github.io/post/zen-me-zhao-pdf-zi-yuan.html</link><description>淘宝是怎么代找 pdf 的？
 
 原up主称：以下方法找不到的书，淘宝也找不到
 

@@ -1,4 +1,4 @@
-# SK's Blog :link: https://stankyoztc.github.io 
+# SK's Blog :link: https://blog.stankyo.cloudns.be 
 ### :page_facing_up: [2](https://stankyoztc.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 599 

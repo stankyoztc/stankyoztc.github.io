@@ -1,4 +1,4 @@
-# SK's Blog :link: blog.412099.xyz 
+# SK's Blog :link: [博客](https://blog.412099.xyz/) 
 ### :page_facing_up: [5](https://stankyoztc.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 16391 
